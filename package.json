@@ -4,7 +4,7 @@
   "description": "Social share module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "gulp dev"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/4ever9/sharer/issues"
   },
-  "homepage": "https://github.com/4ever9/sharer#readme"
+  "homepage": "https://github.com/4ever9/sharer#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "devDependencies": {
+    "gulp-livereload": "^4.0.2"
+  }
 }
