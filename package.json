@@ -1,0 +1,24 @@
+{
+  "name": "sharer",
+  "version": "1.0.0",
+  "description": "Social share module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4ever9/sharer.git"
+  },
+  "keywords": [
+    "jquery",
+    "javascript",
+    "share"
+  ],
+  "author": "Aiden Xu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4ever9/sharer/issues"
+  },
+  "homepage": "https://github.com/4ever9/sharer#readme"
+}
